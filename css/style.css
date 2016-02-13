@@ -1378,3 +1378,9 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+.widget-tag {
+  background: #fff;
+  box-shadow: 1px 2px 3px #ddd;
+  margin-bottom: 30px;
+  word-wrap: break-word;
+}
